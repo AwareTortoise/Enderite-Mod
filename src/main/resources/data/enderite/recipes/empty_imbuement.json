@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xgx",
+    "gdg",
+    "xgx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "minecraft:air"
+    },
+    "g":
+    {
+      "item": "minecraft:glass"
+    },
+    "d":
+    {
+      "item": "enderite:enderite_dust"
+    }
+  },
+  "result":
+  {
+    "item": "enderite:empty_imbuement",
+    "count": 1
+  }
+}
